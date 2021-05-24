@@ -1,0 +1,15 @@
+.carousel-control-next {
+    background-color: transparent;
+    border: none;
+  }
+
+  .carousel-control-prev {
+    background-color: transparent;
+    border: none;
+  }
+
+  .bg-dark p{
+    color: #fff;
+    text-align: center;
+    margin-bottom: 0;
+  }
